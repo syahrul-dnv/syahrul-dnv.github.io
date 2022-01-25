@@ -105,7 +105,7 @@ header .user img{
     object-fit: cover;
     margin-bottom: 1rem;
     border:.7rem solid var(--yellow);
-    margin-top: 55px;
+    margin-top: 60px;
 }
 /*header .user:hover img{
         transform: scale(1.2);
